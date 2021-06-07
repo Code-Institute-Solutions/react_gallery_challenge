@@ -8,5 +8,5 @@ npm install
 npm start
 
 ###
-7/7/21 Updated package-lock.json for package versions that had vulnerabilities
+7/6/21 Updated package-lock.json for package versions that had vulnerabilities
 
